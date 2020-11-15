@@ -1,0 +1,15 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+com.automattic.freshlypressed.data.models.posts
+com.automattic.freshlypressed.data.models.presentation
+com.automattic.freshlypressed.data.models.site
+com.automattic.freshlypressed.data.remote
+com.automattic.freshlypressed.di
+com.automattic.freshlypressed.repository
+com.automattic.freshlypressed.ui.adapters
+com.automattic.freshlypressed.ui.viewmodels
+com.automattic.freshlypressed.ui.views.activites
+com.automattic.freshlypressed.ui.views.fragments
+com.automattic.freshlypressed.utils
+
